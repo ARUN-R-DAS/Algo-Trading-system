@@ -1,0 +1,15 @@
+Stock Data (NIFTY 50) :
+Top 50 companies in India's stock market
+
+RSI (Relative Strength Index):
+Tells if a stock is oversold(<30 = possible buy)
+
+DMA (Daily Moving Average):
+Average price over a number of days 
+(eg: 20-DMA = avg of past 20 days)
+
+A crossover is when one line crosses above another 
+(eg: 20-DMA > 50-DMA)
+
+Backtest :
+Test your strategy on pas data to see if it works
